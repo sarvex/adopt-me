@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#e47fd9",
+    "statusBar.background": "#db55cd",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#d12cc0",
+    "statusBarItem.remoteBackground": "#db55cd",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#e47fd9"
+  },
+  "peacock.color": "#db55cd",
+  "cSpell.words": ["Doink", "Havanese"]
+}
