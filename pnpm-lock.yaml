@@ -32,7 +32,7 @@ devDependencies:
     specifier: 7.33.2
     version: 7.33.2(eslint@8.49.0)
   eslint-plugin-react-refresh:
-    specifier: ^0.4.3
+    specifier: 0.4.3
     version: 0.4.3(eslint@8.49.0)
   prettier:
     specifier: 3.0.3
